@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Idan</h1>
 <h3 align="center">A full-stack software engineer</h3>
 
-- 🔭 I’m currently working on [TweeX](https://github.com/Idan-Garay/Tweex)
+- 🔭 I’m currently working on [https://hive-sepia-five.vercel.app/](Hive:A Twitter Clone App)
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **Next.js**
 
-- 👨‍💻 All of my projects are available at [https://idanjoshua.com](https://idanjoshua.com)
+- 👨‍💻 Get to know me at [https://idanjoshua.com](https://idanjoshua.com)
 
 - 💬 Ask me about **React, Javascript, and Data Structures**
 
