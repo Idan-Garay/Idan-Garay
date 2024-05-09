@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Idan</h1>
 <h3 align="center">A full-stack software engineer</h3>
 
-- 🔭 I’m currently working on [https://hive-sepia-five.vercel.app/](Hive:A Twitter Clone App)
+- 🔭 I’m currently working on my [https://hive-sepia-five.vercel.app](Twitter_Clone_App)
 
 - 🌱 I’m currently learning **Next.js**
 
